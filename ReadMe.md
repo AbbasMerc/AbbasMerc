@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a final year B. Tech student in Artificial Intelligence and Data Science.<br>Looking to learn new languages and implement those on my projects.<br>I am huge sports nerd so trying to integrate whatever I learn in sports some way or the other
+I am currently a final year B. Tech student in Artificial Intelligence and Data Science.<br>Looking to learn new languages and implement those on my projects.<br>I am huge sports nerd so trying to integrate whatever I learn in sports in some way or the other
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@ I am currently a final year B. Tech student in Artificial Intelligence and Data 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fshubhracodes%2Fsome-memes-that-only-developers-will-relate-to-jeg&psig=AOvVaw37qgAI5uhVf55MpygZDbL8&ust=1718459287001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC02Oud24YDFQAAAAAdAAAAABBJ}|' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbbasMerc&icon=0&color=0)](https://visitcount.itsvg.in)
